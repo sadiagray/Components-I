@@ -31,7 +31,7 @@ function menuMaker(linksArray) {
     menuWrapper.classList.toggle('menu--open');
   })
  
-  return menuMaker;
+  return menuWrapper;
 }
 
 
